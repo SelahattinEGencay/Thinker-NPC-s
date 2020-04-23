@@ -1,0 +1,2 @@
+F:\Game Prototypes\Unity\Thinker NPC's\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\Game Prototypes\Unity\Thinker NPC's\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
